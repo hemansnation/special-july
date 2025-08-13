@@ -1,3 +1,5 @@
 # Special July
 
-This is a simple git repo.
+This is a simple git repository.
+
+New commit.
